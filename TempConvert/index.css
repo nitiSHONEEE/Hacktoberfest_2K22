@@ -15,3 +15,9 @@ input{
 body{
     background-color: cadetblue;
 }
+footer{
+    background-color: black;
+    color: white;
+    font-size: 25px;
+    padding: 10px;
+}
